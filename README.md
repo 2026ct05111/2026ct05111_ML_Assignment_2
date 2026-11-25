@@ -57,7 +57,7 @@ https://github.com/2026ct05111/2026ct05111_ML_Assignment_2
 ├── classification_assignment.ipynb   # full notebook (EDA, preprocessing, models, evaluation)
 ├── requirements.txt                  # dependencies
 ├── README.md
-└── images/                           # plots used in this README
+└── model                       # plots used in this README
     ├── model_comparison.png
     ├── roc_curves.png
     └── confusion_matrices.png
