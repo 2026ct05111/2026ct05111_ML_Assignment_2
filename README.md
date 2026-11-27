@@ -138,7 +138,7 @@ It achieves the best Accuracy (0.8546), F1 Score (0.6767) and MCC (0.5854). Beca
    ```bash
    jupyter notebook classification_assignment.ipynb
    ```
-4. Run all cells (**Kernel → Restart & Run All**). The dataset is downloaded automatically from the UCI repository (internet required on the first run). All random processes use `random_state=42`, so results are reproducible.
+4. Run all cells (**Kernel → Restart & Run All**). The dataset is downloaded automatically from the UCI repository (internet required on the first run)/ you can also use the tes_data.csv file for the data. All random processes use `random_state=42`, so results are reproducible.
 
 ## Tech Stack
 
