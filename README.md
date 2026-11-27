@@ -58,6 +58,7 @@ https://github.com/2026ct05111/2026ct05111_ML_Assignment_2
 ├── requirements.txt                  # dependencies
 ├── README.md
 ├── model/
+├── screenshots/
 ├── test_data.csv
 └── images/               # plots used in this README
     ├── model_comparison.png
